@@ -127,4 +127,3 @@ $("#settingsBtn").addEventListener("click",()=>{
 });
 $("#logoutBtn").addEventListener("click",()=>{localStorage.removeItem("learniq_session");location.reload();});
 function initializeApp(){saveProfile();navigate("dashboard");}
-
