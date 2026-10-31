@@ -50,4 +50,3 @@
     if(typeof initializeApp==="function") initializeApp();
   } else { setMode("login"); }
 })();
-
