@@ -16,3 +16,4 @@ const questionBank = [
   { id: 8, subject: "English", topic: "Comprehension", question: "What is the main idea of a passage?", options: ["A minor detail", "The central point", "The final word", "The author's name"], answer: 1, explanation: "The main idea is the central point the passage communicates." },
   { id: 9, subject: "English", topic: "Writing", question: "Which is the clearest topic sentence?", options: ["There are many things.", "This paragraph is about it.", "Regular reading improves vocabulary and focus.", "And then it happened."], answer: 2, explanation: "A strong topic sentence clearly states the paragraph's main point." }
 ];
+
